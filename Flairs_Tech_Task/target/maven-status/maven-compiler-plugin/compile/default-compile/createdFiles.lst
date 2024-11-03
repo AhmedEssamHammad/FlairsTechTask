@@ -1,0 +1,5 @@
+pages\AddUserPage.class
+driver\Driver.class
+pages\AdminPage.class
+pages\LoginPage.class
+pages\SearchPage.class
